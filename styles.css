@@ -1,0 +1,10 @@
+.bold {
+    font-weight:bold;
+  }
+.oblique {
+    font-style: oblique;
+  }
+    
+.underlined{
+    text-decoration: underline;
+  }
